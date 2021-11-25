@@ -5,7 +5,7 @@ describe('funcionalidade pré cadastro', () => {
 
 
     beforeEach(() => {
-        cy.visit ('http://lojaebac.ebaconline.art.br/minha-conta/')
+        cy.visit ('minha-conta')
     });
 
 
@@ -13,7 +13,7 @@ describe('funcionalidade pré cadastro', () => {
 
         let nomefaker = faker.name.firstName()
         let sobrenomefaker = faker.name.lastName()
-        let emailfaker = faker.internet.email
+        let emailfaker = faker.internet.email()
 
         cy.get('#reg_email').type(emailfaker)
         cy.get('#reg_password').type('123teste@123$')
