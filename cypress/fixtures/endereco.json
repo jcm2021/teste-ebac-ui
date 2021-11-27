@@ -1,0 +1,54 @@
+[
+    {
+        "nome": "Juliana",
+        "sobrenome": "Campos",
+        "empresa": "EBAC",
+        "endereco": "Av. São Sebastião",
+        "numero": "239",
+        "pais": "Brasil",
+        "cidade": "Ubatuba",
+        "estado": "São Paulo",
+        "cep": "12450-000",
+        "telefone": "12 987564632",
+        "email": "teste_aluno@ebac.com"
+    },
+    {
+        "nome": "Camila",
+        "sobrenome": "Unica",
+        "empresa": "Hering",
+        "endereco": "Av. Pedro Longo",
+        "numero": "1005",
+        "pais": "Brasil",
+        "cidade": "Itacaré",
+        "estado": "Bahia",
+        "cep": "45530-000",
+        "telefone": "73 981518632",
+        "email": "aluno_1520@ebac.com"
+    },
+    {
+        "nome": "Gustavo",
+        "sobrenome": "Roseno",
+        "empresa": "EBAC",
+        "endereco": "Av. São Gotardo",
+        "numero": "10589",
+        "pais": "Brasil",
+        "cidade": "Rio de Janeiro",
+        "estado": "Rio de Janeiro",
+        "cep": "21470-010",
+        "telefone": "21 998164632",
+        "email": "gu2000_aluno@ebac.com"
+    },
+    {
+        "nome": "Miguel",
+        "sobrenome": "Teixeira",
+        "empresa": "UP",
+        "endereco": "Rua Imperatriz",
+        "numero": "1789",
+        "pais": "Brasil",
+        "cidade": "Belo Horizonte",
+        "estado": "Minas Gerais",
+        "cep": "30330-240",
+        "telefone": "31 985285299",
+        "email": "miguel_aluno@ebac.com"
+    }
+]

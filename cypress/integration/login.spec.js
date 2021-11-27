@@ -32,7 +32,7 @@ context('funcionalidade login', () => {
 
     });
 
-    it.only('deve fazer login com sucesso - usando fixture', () => {
+    it('deve fazer login com sucesso - usando fixture', () => {
 
         cy.fixture('perfil').then(dados => {
 
